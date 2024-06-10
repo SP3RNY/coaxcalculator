@@ -1,3 +1,13 @@
+rg223-HUBER&SUHNER:
+  name: RG223/U (Huber&Suhner)
+  manufacturer: Huber&Suhner
+  type: RG223/U
+  attenuation: { 50: 8.8, 100: 12.6, 200: 18.3, 300: 22.8, 400: 26.8, 600: 33.6, 800: 39.6, 1000: 45.1, 1200: 50.1, 1400: 54.9, 1600: 59.5, 1800: 63.9, 2000: 68.1, 2500: 78.1, 3000: 87.5, 3500: 96.5, 4000: 105.1, 4500: 113.4, 5000: 121.4, 5500: 129.3 }
+  data_source: https://www.koax24.de/storage/datasheet/de/050156_Datenblatt_RG_223_U_RG_223_U.pdf
+  additional_info:
+    ext_diameter_mm: 5.4
+    velocity_factor: 0.66
+    impedance: 50
 h155-belden:
   name: H155 (Belden)
   manufacturer: Belden
